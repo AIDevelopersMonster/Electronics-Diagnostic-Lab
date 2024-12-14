@@ -42,5 +42,9 @@ To install the libraries, go to **Sketch > Include Library > Manage Libraries** 
 
 1. **Clone this repository**:
    ```bash
+<<<<<<< Updated upstream
 https://github.com/AIDevelopersMonster/Electronics-Diagnostic-Lab.git
 
+=======
+   git clone https://github.com/AIDevelopersMonster/Electronics-Diagnostic-Lab.git
+>>>>>>> Stashed changes
