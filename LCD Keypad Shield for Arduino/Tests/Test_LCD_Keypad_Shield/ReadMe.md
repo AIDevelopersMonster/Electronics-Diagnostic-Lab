@@ -10,7 +10,9 @@ The project is structured into several tests, each organized in separate files:
 - **Test ASCII**: Displays all ASCII characters (from 0 to 255) on the LCD to check how each character is rendered.
 
 ### Authors:
-- **Your Name** (your GitHub username)
+- **Your Name** Alex Malachevsky
+       Youtube https://www.youtube.com/@KONTAKTS
+   
 
 ### Libraries Used:
 - **LiquidCrystal**: A standard Arduino library for controlling LCDs.
