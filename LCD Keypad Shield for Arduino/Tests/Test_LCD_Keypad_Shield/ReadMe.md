@@ -42,4 +42,4 @@ To install the libraries, go to **Sketch > Include Library > Manage Libraries** 
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/LCD-Keypad-Shield-Testing.git
+   git clone [https://github.com/AIDevelopersMonster/Electronics-Diagnostic-Lab.git](https://github.com/AIDevelopersMonster/Electronics-Diagnostic-Lab.git)]
