@@ -1,5 +1,11 @@
 # LCD Keypad Shield Testing Project
 
+## Watch the Video
+
+Here is a demo of the LCD Keypad Shield testing:
+
+[![Watch the video](https://img.youtube.com/vi/SBMd3MttB9Q/0.jpg)](https://www.youtube.com/watch?v=SBMd3MttB9Q)
+
 ## Description
 
 This project is designed to test the functionality of the **LCD Keypad Shield** using an Arduino. It includes several tests for the LCD screen, buttons, and custom character generation.
