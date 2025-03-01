@@ -60,7 +60,7 @@ void loop() {
     }
   }
   display.display();
-  delay(5000);
+  delay(1000);
 
   // 3. Зажигать пиксели рядами
   display.clearDisplay();
